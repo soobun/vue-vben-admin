@@ -1,0 +1,28 @@
+{
+  "title": "课程组织",
+  "course": {
+    "course": "课程",
+    "title": "课程管理",
+    "name": "课程名称",
+    "introduction": "课程简介",
+    "textbook": "推荐教材",
+    "course_type": {
+      "name": "课程类别",
+      "public": "公开课程",
+      "private": "内部课程"
+    },
+    "sn": "课程编号",
+    "visible": "是否可见",
+    "outline": "课程大纲",
+    "part_list": "章节列表"
+  },
+  "part": {
+    "title": "模块管理"
+  },
+  "level": {
+    "title": "关卡管理"
+  },
+  "node": {
+    "title": "节点管理"
+  }
+}

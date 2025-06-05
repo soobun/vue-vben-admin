@@ -1,0 +1,28 @@
+{
+  "title": "Course Organize",
+  "course": {
+    "course": "Course",
+    "title": "Course Manage",
+    "name": "Course Name",
+    "introduction": "Course Introduction",
+    "textbook": "Recommend Textbook",
+    "course_type": {
+      "name": "Course Type",
+      "public": "Public Course",
+      "private": "Private Course"
+    },
+    "sn": "Course Serial Number",
+    "visible": "Enable for Visit",
+    "outline": "Course Outline",
+    "part_list": "Part List"
+  },
+  "part": {
+    "title": "Part Manage"
+  },
+  "level": {
+    "title": "Level Manage"
+  },
+  "node": {
+    "title": "Node Manage"
+  }
+}

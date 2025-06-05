@@ -5,6 +5,10 @@
       "path": "apps/backend-mock",
     },
     {
+      "name": "@vben/teacher-manage",
+      "path": "apps/teacher-manage",
+    },
+    {
       "name": "@vben/web-antd",
       "path": "apps/web-antd",
     },
