@@ -20,7 +20,7 @@ function generateMockCourseList(count: number) {
           { count: 5 },
         ),
       }),
-      courseType: faker.number.int({ min: 1, max: 3 }),
+      courseType: faker.number.int({ min: 0, max: 1 }),
       courseSn: `DATA${faker.number.int({ min: 1001, max: 3000 })}`,
       isApproved: 1,
     };
